@@ -258,7 +258,7 @@ The same visual language is used across Scraper, Purge, Ping, Dashboard and Sett
 ### 1. Download / clone the project
 
 ```bash
-git clone <your-repository-url>
+git clone [https://github.com/reegzl/iMapTool.git](https://github.com/reegzl/iMapTool.git)
 cd iMapTool
 ```
 
@@ -1073,19 +1073,16 @@ The previous iMapPing project used the **MIT** licence badge; if this project is
 If iMapTool saves you time or makes your workflow easier, supporting development is appreciated.
 
 **Bitcoin (BTC)**
-
 ```text
 bc1qm427zm2jxmesulwjd4j95k82ck9h7l9n7wqemt
 ```
 
 **Ethereum (ETH)**
-
 ```text
 0xf6bf5446Efe20f1404016895c6deaf0F22EF76CE
 ```
 
 **Stellar (XLM)**
-
 ```text
 GBDLBCAE75FO3QNB5VWCWMEOIV2GEP7UFPP3CQICPM3KOZ2YVY55E7OJ
 ```
